@@ -4,7 +4,8 @@ BOT_NAME = 'pep_parse'
 
 SPIDER_MODULES = ['pep_parse.spiders']
 
-PEP_SPIDER_URL = 'peps.python.org'
+PEP_SPIDER_ALLOWED_URL = 'peps.python.org'
+PEP_SPIDER_START_URL = 'https://peps.python.org/'
 
 ROBOTSTXT_OBEY = True
 
