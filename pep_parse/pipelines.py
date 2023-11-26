@@ -15,7 +15,7 @@ class PepParsePipeline:
 
     def open_spider(self, spider):
         self.statuses = defaultdict(int)
-    
+
     def close_spider(self, spider):
         now = dt.datetime.now()
         now_formatted = now.strftime(DATETIME_FORMAT)
@@ -31,9 +31,7 @@ class PepParsePipeline:
                 *self.statuses.items(),
                 (SUMMARY_TABLE_BOTTOM, sum(self.statuses.values())),
             ])
-    
 
     def process_item(self, item, spider):
         self.statuses[item.get('status')] += 1
         return item
-    
