@@ -22,11 +22,12 @@ class PepParsePipeline:
         file_name = f'{SUMMARY_NAME}_{now_formatted}.{FILE_FORMAT}'
         file_path = self.results_dir / file_name
         with open(file_path, mode='w', encoding='utf-8') as csvfile:
-            csv.writer(
+            writer = csv.writer(
                 csvfile,
                 dialect=csv.unix_dialect,
                 quoting=csv.QUOTE_NONE,
-            ).writerows([
+            )
+            writer.writerows([
                 SUMMARY_TABLE_HEADER,
                 *self.statuses.items(),
                 (SUMMARY_TABLE_BOTTOM, sum(self.statuses.values())),

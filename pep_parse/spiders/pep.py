@@ -11,7 +11,7 @@ class PepSpider(scrapy.Spider):
 
     def parse(self, response, **kwargs):
         for link in response.css(
-            'tbody tr a[href^="pep-"]'
+            'tbody tr a[href^="pep-/"]'
         ):
             yield response.follow(
                 link, callback=self.parse_pep
