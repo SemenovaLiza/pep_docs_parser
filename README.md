@@ -1,8 +1,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 # *ੈ✩‧˚PEP parser on Scrapy *ੈ✩.˚
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=657&size=24&pause=1000&color=3A55F7FF&random=false&width=435&lines=Project's+goal)](https://git.io/typing-svg)
-Project was created in order to get aquaired with asynchronous parsering based on the Scrapy framework.
-
+Project was created in order to get aquaired with asynchronous parsering based on the Scrapy framework. It is also a final version of [pep parser]( 
+https://github.com/SemenovaLiza/bs4_parser_pep)
 Extended version of [PEP parser.](git@github.com:SemenovaLiza/bs4_parser_pep.git) 
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=657&size=24&pause=1000&color=3A55F7FF&random=false&width=435&lines=Technologies)](https://git.io/typing-svg)
