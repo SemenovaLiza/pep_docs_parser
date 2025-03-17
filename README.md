@@ -4,6 +4,7 @@
 ![Pytest](https://img.shields.io/badge/tests-passing-brightgreen?style=flat-square&logo=pytest)!
 ![Scrapy](https://img.shields.io/badge/Scrapy-2.5-green)
 ![Status](https://img.shields.io/badge/status-finished-green?style=flat-square)
+
 Project was created in order to get aquaired with asynchronous parsering based on the Scrapy framework. It's also a final version of [pep parser]( 
 https://github.com/SemenovaLiza/bs4_parser_pep)
 
