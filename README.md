@@ -1,7 +1,7 @@
 # *ੈ✩‧˚PEP parser on Scrapy *ੈ✩.˚
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=657&size=24&pause=1000&color=3A55F7FF&random=false&width=435&lines=Project's+goal)](https://git.io/typing-svg)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Pytest](https://img.shields.io/badge/tests-passing-brightgreen?style=flat-square&logo=pytest)!
+![Pytest](https://img.shields.io/badge/tests-passing-brightgreen?style=flat-square&logo=pytest)
 ![Scrapy](https://img.shields.io/badge/Scrapy-2.5-green)
 ![Status](https://img.shields.io/badge/status-finished-green?style=flat-square)
 
