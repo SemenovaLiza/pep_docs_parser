@@ -1,6 +1,9 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 # *ੈ✩‧˚PEP parser on Scrapy *ੈ✩.˚
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=657&size=24&pause=1000&color=3A55F7FF&random=false&width=435&lines=Project's+goal)](https://git.io/typing-svg)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pytest](https://img.shields.io/badge/tests-passing-brightgreen?style=flat-square&logo=pytest)!
+![Scrapy](https://img.shields.io/badge/Scrapy-2.5-green)
+![Status](https://img.shields.io/badge/status-finished-green?style=flat-square)
 Project was created in order to get aquaired with asynchronous parsering based on the Scrapy framework. It's also a final version of [pep parser]( 
 https://github.com/SemenovaLiza/bs4_parser_pep)
 
@@ -12,8 +15,6 @@ https://github.com/SemenovaLiza/bs4_parser_pep)
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=657&size=24&pause=1000&color=3A55F7FF&random=false&width=435&lines=How+to+launch+the+project)](https://git.io/typing-svg)
 *Do following steps by using terminal.*
-
-Выполните следующие команды в терминале:
 
 1. Clone project on local machine
 ```
@@ -45,7 +46,7 @@ scrapy crawl pep
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=657&size=24&pause=1000&color=3A55F7FF&random=false&width=435&lines=Author)](https://git.io/typing-svg)
 
 
-Semenova Elizaveta
+Elizaveta Semenova
 
 ~ [Other projects](https://github.com/SemenovaLiza) ~
 
